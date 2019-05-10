@@ -1,1 +1,1 @@
-This repository contains data and code to reproduce results presented in article entitled "Extracting Scientific Trends Based on Topics in Conference Call for Papers" submitted to Library Hi Tech.
+This repository contains data and code to reproduce results presented in article entitled "Extracting Scientific Trends by Mining Topics from Call for Papers in the field of Data Mining" submitted to Library Hi Tech.
